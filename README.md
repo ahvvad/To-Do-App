@@ -1,8 +1,6 @@
 # To Do App
 #### I remade this app for learning.
 
-###### this app created by : https://youtube.com/playlist?list=PLw6Y5u47CYq6KUSFOumqVFZHdMRADJOtK&si=wNLclwEr9qFfxf7F
-
 ###### To add a new task > Icon Add.
 ###### To delete any task > long press on it.
 
